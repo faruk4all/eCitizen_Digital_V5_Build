@@ -2,7 +2,7 @@
    Add real IDs/endpoints before launch. Leave values empty until verified.
 */
 window.ECITIZEN_CONFIG = Object.freeze({
-  siteUrl: 'https://ecitizendigital.com',
+  siteUrl: 'https://ecitizen.digital',
   ga4MeasurementId: '',
   gtmId: '',
   metaPixelId: '',
