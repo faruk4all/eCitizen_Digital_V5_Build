@@ -4,7 +4,7 @@
 window.ECITIZEN_CONFIG = Object.freeze({
   siteUrl: 'https://ecitizen.digital',
   ga4MeasurementId: '',
-  gtmId: '',
+  gtmId: 'GTM-MBPJH9MK',
   metaPixelId: '',
   tiktokPixelId: '',
   searchConsoleVerification: '',
